@@ -1,41 +1,98 @@
-<h1 align="center">✨ B Sharan Goutham ✨</h1>
-<p align="center"><i>AI-Powered Full Stack Developer | Software Engineer | Innovator</i></p>
+# ✨ B Sharan Goutham - Modern Portfolio ✨  
+*AI-Powered Full Stack Developer | Software Engineer | Innovator*
 
 <p align="center">
   <a href="https://stevportfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio–Live-brightgreen?style=for-the-badge&logo=vercel" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🚀_Portfolio–Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:magillhadley79@gmail.com">
-    <img src="https://img.shields.io/badge/Email–Mail-red?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/📧_Email–Mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/goutham037">
-    <img src="https://img.shields.io/badge/GitHub–goutham037-black?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/💻_GitHub–goutham037-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/sharan-goutham/">
-    <img src="https://img.shields.io/badge/LinkedIn–Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/👔_LinkedIn–Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
----
-
-## 🧠 About Me
-Driven by innovation and purpose, I build full-stack, AI-infused, and immersive applications that solve real problems.  
-Currently completing a Diploma in Computer Science & Engineering (GPA: 9.52), with multiple district-level awards and published research.
-
-- 🎓 **Education:**  
-  - **Govt Polytechnic Nalgonda** (2022–2025) — Diploma in CSE, GPA 9.52  
-  - **Saint Therese High School Khammam** (2021–2022) — Class 10, CGPA 10.0  
-
-- 💻 **Tech & Tools:**  
-  Python · Java · C++ · JavaScript · Kotlin · React · Android · Flask · Node.js · WebRTC · Three.js · Firebase · MongoDB · SQL · Git · Docker  
-
-- 🏆 **Achievements:**  
-  - 2× District Winner – Srujana Tech Fest (2024, 2025)  
-  - Top-5 State Finalist – Srujana Tech Fest 2025  
-  - Published in IJARST (“Smart Holovision”)  
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFE0&center=true&vCenter=true&width=800&height=100&lines=Building+immersive+AI+experiences;Crafting+web+%26+mobile+solutions;Transforming+ideas+into+reality;Join+the+innovation+journey" 
+    alt="Typing Animation" 
+  />
+</div>
 
 ---
 
+## 🌟 About Me  
+<div align="center">
+
+
+  <p align="left" style="max-width: 600px; text-align: justify;">
+    <b>Hi, I'm B Sharan Goutham</b> — a passionate <b>Full Stack Developer</b> and innovation engineer.<br><br>
+    I build immersive, AI-driven applications that solve real-world problems. Currently pursuing a 
+    <b>Diploma in Computer Science & Engineering</b> (GPA: 9.52), I’ve earned multiple district-level tech awards and published 
+    research in IJARST. I thrive on crafting solutions that blend performance, intelligence, and experience.
+  </p>
+
+</div>
+
+
+### 🎓 Education  
+```mermaid
+%%{init: { 
+    'theme': 'base',
+    'themeVariables': {
+        'primaryColor': '#0f172a',
+        'primaryBorderColor': '#00FFE0',
+        'primaryTextColor': '#f8fafc',
+        'lineColor': '#00FFE0',
+        'tertiaryColor': '#1e293b',
+        'fontFamily': 'Fira Code, monospace'
+    },
+    'themeCSS': `
+        .timeline .section {
+            fill: #0ea5e9 !important;
+            stroke: none !important;
+        }
+        .timeline .label {
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        .timeline .milestone {
+            transform-box: fill-box;
+            transform-origin: center;
+            animation: pulse 2s infinite;
+        }
+        @keyframes pulse {
+            0% { r: 6px; }
+            50% { r: 8px; }
+            100% { r: 6px; }
+        }
+    `
+}}%%
+timeline
+    title Education Journey 🚀
+    section Academic Path
+    2021-2022 : <i class='fas fa-graduation-cap'></i> Saint Therese High School Khammam ::
+        "Secondary Education" : "CGPA 10.0 🏆"
+    2022-2025 : <i class='fas fa-laptop-code'></i> Govt Polytechnic Nalgonda ::
+        "Diploma in Computer Science" : "GPA 9.52 📈"
+```
+
+### 💻 Tech Stack  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,kotlin,react,android,flask,nodejs,firebase,mongodb,sql,git,docker&perline=7" alt="Tech Stack">
+</div>
+
+### 🏆 Achievements  
+- 🥇 2× District Winner – Srujana Tech Fest (2024, 2025)  
+- 🏆 Top-5 State Finalist – Srujana Tech Fest 2025  
+- 📚 Published in IJARST ("Smart Holovision")  
+
+---  
 ## 🚀 Featured Projects
 
 | Project                                                   | Description                                                                                     | Tech Stack                                |
@@ -49,46 +106,39 @@ Currently completing a Diploma in Computer Science & Engineering (GPA: 9.52), wi
 
 ---
 
-## 📜 Certifications
-
-- [Hackerrank SQL Basic](https://www.hackerrank.com/certificates/e9a6884a5ac4)  
-- Winner & Participant – Srujana Tech Fest (District 2024, District 2025, State 2024, State 2025)  
-
----
-
-
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=goutham037&theme=radical"
-    alt="GitHub Streak"
-    height="150"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=goutham037&layout=compact&theme=radical"
-    alt="Top Languages"
-    height="150"
-  />
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=goutham037&theme=radical"
-    alt="Activity Graph"
-    height="150"
-  />
-</p>
-
+## 📊 GitHub Analytics  
+<div align="center">
+  
+  | ![GitHub Streak](https://streak-stats.demolab.com?user=goutham037&theme=radical&fire=00FFE0&border_radius=10) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goutham037&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&border_radius=10) |
+  |:---:|:---:|
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=goutham037&theme=radical&hide_border=true&area=true&color=00FFE0&bg_color=0D1117&radius=10)
+</div>
 
 ---
 
-## 📫 Connect with Me
-
-- ✉️ **Email:** [magillhadley79@gmail.com](mailto:magillhadley79@gmail.com)  
-- 📞 **Phone:** [+91 70131 23744](tel:+917013123744)  
-- 💼 **LinkedIn:** [linkedin.com/in/sharan-goutham](https://www.linkedin.com/in/sharan-goutham/)  
-- 💻 **GitHub:** [github.com/goutham037](https://github.com/goutham037)  
+## 📬 Connect With Me  
+<div align="center">
+  <a href="mailto:magillhadley79@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email–Mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="tel:+917013123744">
+    <img src="https://img.shields.io/badge/📱_Phone–Call-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Phone">
+  </a>
+  <a href="https://www.linkedin.com/in/sharan-goutham/">
+    <img src="https://img.shields.io/badge/👔_LinkedIn–Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/goutham037">
+    <img src="https://img.shields.io/badge/💻_GitHub–goutham037-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</div>
 
 ---
 
-> “Code what matters. Solve what hurts. Build what inspires.”  
-> 🚀 Focused on AI + Full Stack + Immersive Experiences — let’s innovate together!  
+<div align="center" style="margin-top: 40px">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFE0&center=true&vCenter=true&width=600&lines=Code+what+matters.;Solve+what+hurts.;Build+what+inspires." alt="Quote">
+  
+  <p>🚀 Focused on <b>AI + Full Stack + Immersive Experiences</b> — let's innovate together!</p>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave">
+</div>
