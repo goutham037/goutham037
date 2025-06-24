@@ -76,10 +76,9 @@
 timeline
     title Education Journey 🚀
     section Academic Path
-    2021-2022 : <i class='fas fa-graduation-cap'></i> Saint Therese High School Khammam ::
-        "Secondary Education" : "CGPA 10.0 🏆"
-    2022-2025 : <i class='fas fa-laptop-code'></i> Govt Polytechnic Nalgonda ::
-        "Diploma in Computer Science" : "GPA 9.52 📈"
+    2021-2022 : Saint Therese High School, Khammam ::"Secondary Education" : "CGPA 10.0 🏆"
+    2022-2025 : Govt Polytechnic, Nalgonda ::"Diploma in Computer Science & Engineering" : "GPA 9.52 📈"
+
 ```
 
 ### 💻 Tech Stack  
