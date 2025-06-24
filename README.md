@@ -1,4 +1,4 @@
-# ✨ B Sharan Goutham - Modern Portfolio ✨  
+# ✨ B Sharan Goutham  ✨  
 *AI-Powered Full Stack Developer | Software Engineer | Innovator*
 
 <p align="center">
