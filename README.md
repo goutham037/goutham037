@@ -1,4 +1,4 @@
-# ✨ B Sharan Goutham  ✨  
+#  B Sharan Goutham  
 *AI-Powered Full Stack Developer | Software Engineer | Innovator*
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 ---
 
-## 🌟 About Me  
+##  About Me  
 <div align="center">
 
 
@@ -39,7 +39,7 @@
 </div>
 
 
-### 🎓 Education  
+###  Education  
 ```mermaid
 %%{init: { 
     'theme': 'base',
@@ -74,25 +74,25 @@
     `
 }}%%
 timeline
-    title Education Journey 🚀
+    title Education Journey 
     section Academic Path
-    2021-2022 : Saint Therese High School, Khammam ::"Secondary Education" : "CGPA 10.0 🏆"
-    2022-2025 : Govt Polytechnic, Nalgonda ::"Diploma in Computer Science & Engineering" : "GPA 9.52 📈"
+    2021-2022 : Saint Therese High School, Khammam ::"Secondary Education" : "CGPA 10.0 "
+    2022-2025 : Govt Polytechnic, Nalgonda ::"Diploma in Computer Science & Engineering" : "GPA 9.52 "
 
 ```
 
-### 💻 Tech Stack  
+###  Tech Stack  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,kotlin,react,android,flask,nodejs,firebase,mongodb,sql,git,docker&perline=7" alt="Tech Stack">
 </div>
 
-### 🏆 Achievements  
-- 🥇 2× District Winner – Srujana Tech Fest (2024, 2025)  
-- 🏆 Top-5 State Finalist – Srujana Tech Fest 2025  
-- 📚 Published in IJARST ("Smart Holovision")  
+###  Achievements  
+-  2× District Winner – Srujana Tech Fest (2024, 2025)  
+-  Top-5 State Finalist – Srujana Tech Fest 2025  
+-  Published in IJARST ("Smart Holovision")  
 
 ---  
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project                                                   | Description                                                                                     | Tech Stack                                |
 |-----------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------|
@@ -137,7 +137,7 @@ timeline
 <div align="center" style="margin-top: 40px">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFE0&center=true&vCenter=true&width=600&lines=Code+what+matters.;Solve+what+hurts.;Build+what+inspires." alt="Quote">
   
-  <p>🚀 Focused on <b>AI + Full Stack + Immersive Experiences</b> — let's innovate together!</p>
+  <p> Focused on <b>AI + Full Stack + Immersive Experiences</b> — let's innovate together!</p>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave">
 </div>
