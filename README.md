@@ -1,6 +1,6 @@
 # B Sharan Goutham
 
-Full-stack developer building AI-driven tools, automation, and web/mobile apps.
+Lead AI Developer at Sociovia — ad intelligence, CRM automation, and conversational AI for growth teams. Outside of that I build things to see if they're possible: reverse-engineered a college portal into an MCP server ChatGPT can call directly, built a 2D→3D video pipeline that ended up published in IJARST.
 
 [Portfolio](https://stevportfolio.vercel.app/) · [Email](mailto:magillhadley79@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sharan-goutham/) · [Phone](tel:+917013123744)
 
@@ -37,3 +37,8 @@ Full-stack developer building AI-driven tools, automation, and web/mobile apps.
   <img src="https://streak-stats.demolab.com?user=goutham037&theme=radical&hide_border=true" alt="GitHub streak" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goutham037&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top languages" height="150" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/goutham037/goutham037/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/goutham037/goutham037/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+</picture>
